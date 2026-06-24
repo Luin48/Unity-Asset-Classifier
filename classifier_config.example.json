@@ -1,0 +1,38 @@
+{
+  "assets_root": "",
+  "port": 7832,
+  "tags": [
+    {
+      "id": "untagged",
+      "name": "태그 없음",
+      "color": "#475569"
+    },
+    {
+      "id": "clothing",
+      "name": "의상",
+      "color": "#2563eb"
+    },
+    {
+      "id": "hair",
+      "name": "헤어",
+      "color": "#db2777"
+    },
+    {
+      "id": "props",
+      "name": "소품",
+      "color": "#059669"
+    },
+    {
+      "id": "etc",
+      "name": "기타",
+      "color": "#64748b"
+    }
+  ],
+  "ignored_top_folders": [
+    "태그 없음",
+    "의상",
+    "헤어",
+    "소품",
+    "기타"
+  ]
+}
